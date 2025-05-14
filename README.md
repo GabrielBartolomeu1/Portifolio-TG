@@ -61,9 +61,27 @@ Oferece dashboards interativos com visualização gráfica das avaliações, des
 
 ### Contribuições pessoais
 
-- Implementação da navegação do usuário pelo sistema
-- Criação dos dashboards para visualização de dados de turmas, alunos
-- Colaborei na lógica de login do usuário no sistema
+<details>
+<summary>Métricas</summary>
+
+*Dashboard Analítico*
+
+- Desenvolvimento de ferramentas de análise:
+    - Adicionei algoritmos para calculo de médias de alunos, turmas
+    - Colaborei na melhora de navegação do usuário no sistema
+</details>
+
+<details>
+<summary>Dashboards</summary>
+
+*Visualização de Dados*
+
+- Implementação de:
+    - Criação de gráfico de barra, área
+    - Criação de dashboards para alunos e admin
+    - Indicadores de desempenho por competência
+
+</details>
 
 ### Hard Skills
 
