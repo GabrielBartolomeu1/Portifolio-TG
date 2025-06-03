@@ -103,3 +103,103 @@ Capacidade de responder positivamente a mudanças de requisitos e feedbacks cont
 
 **Aprendizado Contínuo**  
 Disposição para adquirir novos conhecimentos técnicos e comportamentais, aplicando-os imediatamente no contexto do projeto.
+
+# 📊 SGTG - Sistema de Gestão de Trabalhos de Graduação  
+
+**Projeto acadêmico desenvolvido para Fatec (FATEC - 2º Semestre 2023)**  
+
+## Contexto  
+Solução desenvolvida para otimizar a gestão de Turmas de Trabalho de Graduação (TG) em instituições de ensino, como projeto integrador da graduação em [inserir curso]. Atuei como [sua função] da equipe [nome da equipe].  
+
+## Funcionalidades Principais  
+
+### Autenticação e Controle de Acesso  
+- Sistema hierárquico de perfis (Administradores, Professores, Alunos)  
+- Gerenciamento centralizado de usuários e permissões  
+- Integração com sistemas institucionais  
+
+### Gestão Acadêmica Completa  
+- Criação e organização de turmas de TG com parâmetros customizáveis  
+- Controle de cronogramas e prazos acadêmicos  
+- Validação de regras de formação de grupos/orientações  
+- Histórico completo de turmas atuais e anteriores  
+
+### Ferramentas de Avaliação  
+- Sistema personalizável de critérios de avaliação  
+- Geração automática de feedbacks detalhados  
+- Emissão de certificados oficiais para concluintes  
+- Comparativos de desempenho entre turmas e períodos  
+
+### Dashboard Analítico  
+- Visualização gráfica do desempenho das turmas  
+- Indicadores de evolução histórica  
+- Relatórios gerenciais para tomada de decisão  
+
+## Tecnológias utilizadas  
+- Java                          
+- JavaFX                        
+- Maven                         
+- MySQL                         
+- IntelliJ IDEA
+- Draw.io        
+- GitHub                        
+- Discord                       
+
+### Contribuições pessoais
+
+<details>
+<summary>Documentação</summary>
+
+- Documentação de instalação:
+    - Dependências do projeto
+        - https://github.com/avilajp/API-2-Semestre-DevMinds/blob/0516b121890a6bfb5591926aeaba852d81bf6b8a/AppTG/Manuais/MySQLManual.pdf
+    - MySQL 
+        - https://github.com/avilajp/API-2-Semestre-DevMinds/blob/0516b121890a6bfb5591926aeaba852d81bf6b8a/AppTG/Manuais/MySQLManual.pdf
+- Documentação do manual do usuário
+</details>
+
+<details>
+<summary>Telas</summary>
+
+- Implementação de:
+    - Tela de importar csv
+        ![alt text](image-2.png)
+    - Header da aplicação para navagegação do aplicativo
+        ![alt text](image.png)
+    - Tela de visualização de atividades
+        ![alt text](image-1.png)
+    - Tela de criação de atividades
+        ![alt text](image-3.png)
+    - Tela de relatórios
+        ![alt text](image-4.png)
+
+</details>
+
+### Hard Skills
+
+- Java
+- JavaFX
+- MySQL
+
+
+### Soft Skills
+
+**Trabalho em Equipe Multidisciplinar**
+
+Colaboração efetiva com desenvolvedores, designers e stakeholders acadêmicos, promovendo alinhamento entre visões técnicas e pedagógicas.
+
+**Gestão de Tempo e Priorização**
+
+Balanceamento entre demandas de desenvolvimento, documentação e prazos acadêmicos, garantindo entregas iterativas dentro do cronograma.
+
+**Comunicação Técnica Adaptativa**
+
+Tradução de requisitos complexos em linguagem acessível para diferentes perfis (alunos, professores, gestores) na documentação e manuais.
+
+**Resolução Criativa de Problemas**
+
+Proposição de soluções alternativas para desafios como integração de sistemas e validação de regras acadêmicas não-lineares.
+
+**Adaptabilidade**
+
+Ajuste contínuo a mudanças de escopo e feedback dos usuários durante o ciclo de desenvolvimento ágil.
