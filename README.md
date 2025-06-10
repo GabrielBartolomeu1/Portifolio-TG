@@ -109,7 +109,7 @@ Disposição para adquirir novos conhecimentos técnicos e comportamentais, apli
 **Projeto acadêmico desenvolvido para Fatec (FATEC - 2º Semestre 2023)**  
 
 ## Contexto  
-Solução desenvolvida para otimizar a gestão de Turmas de Trabalho de Graduação (TG) em instituições de ensino, como projeto integrador da graduação em [inserir curso]. Atuei como [sua função] da equipe [nome da equipe].  
+Solução desenvolvida para otimizar a gestão de Turmas de Trabalho de Graduação (TG) em instituições de ensino, como projeto integrador da graduação em Banco de Dados.  
 
 ## Funcionalidades Principais  
 
@@ -195,6 +195,114 @@ Balanceamento entre demandas de desenvolvimento, documentação e prazos acadêm
 **Comunicação Técnica Adaptativa**
 
 Tradução de requisitos complexos em linguagem acessível para diferentes perfis (alunos, professores, gestores) na documentação e manuais.
+
+**Resolução Criativa de Problemas**
+
+Proposição de soluções alternativas para desafios como integração de sistemas e validação de regras acadêmicas não-lineares.
+
+**Adaptabilidade**
+
+Ajuste contínuo a mudanças de escopo e feedback dos usuários durante o ciclo de desenvolvimento ágil.
+
+# 📊 GEO-IOT - Sistema de geolocaloização
+
+**Projeto acadêmico desenvolvido para Fatec (FATEC - 2º Semestre 2024)** 
+
+## Contexto  
+Solução desenvolvida para monitoramento e rastreamento de dispositivos IoT em tempo real, como projeto integrador da graduação em Banco de Dados. Atuei como Desenvolvedor Backend da equipe Manolito.
+
+## Funcionalidades Principais  
+
+### Monitoramento em Tempo Real  
+- **Visualização em Mapa Interativo**: Exibição dinâmica de dispositivos com histórico de rotas e localização atualizada  
+- **Rastreamento Contínuo**: Acompanhamento preciso da movimentação de cada tag IoT com atualizações em tempo real  
+- **Marcação de Pontos de Interesse**: Identificação de locais estratégicos no mapa para monitoramento especial  
+
+### Filtros e Personalização  
+- **Filtros Avançados**: Seleção por tipo de dispositivo, período, status ou critérios customizados  
+- **Visualização Hierárquica**: Organização de dispositivos por grupos, setores ou prioridades  
+- **Configurações de Exibição**: Personalização de layers e informações mostradas no mapa  
+
+### Geofencing e Alertas  
+- **Zonas de Interesse (Geofencing)**: Criação de áreas virtuais com monitoramento de entrada/saída  
+- **Notificações Inteligentes**: Alertas automáticos para eventos específicos (movimentação suspeita, inatividade, etc.)  
+- **Regras Customizáveis**: Configuração de triggers personalizados para diferentes cenários  
+
+### Relatórios e Análise  
+- **Geração Automática de Relatórios**: Exportação de dados de movimentação em múltiplos formatos  
+- **Histórico Completo**: Armazenamento e consulta de trajetórias e eventos passados  
+- **Indicadores de Desempenho**: Métricas de utilização, tempo em trânsito e eficiência operacional  
+
+### Controle de Acesso  
+- **Perfis Hierárquicos**: Administradores, Supervisores e Operadores com diferentes níveis de permissão  
+- **Gestão Centralizada**: Controle unificado de usuários e dispositivos  
+- **Integração com AD**: Possibilidade de conexão com sistemas corporativos de autenticação  
+
+### Dashboard Analítico  
+- **Visão Consolidada**: Painel com todos os KPIs relevantes em uma única tela  
+- **Gráficos Interativos**: Visualização de dados históricos e tendências  
+- **Alertas Gerenciais**: Notificações para indicadores fora do esperado  
+
+## Tecnológias utilizadas  
+- Java                          
+- Spring
+- Vue
+- MySQL
+- Redis
+- Oracle Cloud
+- Docker
+- Github
+
+### Contribuições pessoais
+
+<details>
+<summary>Telas</summary>
+
+- Implementação de:
+    - Componente de filtragem por colaborador
+        - Design antigo
+
+            -![alt text](image-9.png)
+        - Design atual
+
+            -![alt text](image-7.png)
+     - Juntamente com sua lógica e UX
+        - Preenchimento automático de campos para acelerar a usabilidade do sistema
+        - Auto-complete de nomes
+    - Componente de criação de zona de interesse
+        - Design antigo
+            - ![alt text](image-10.png)
+
+        - Design atual
+
+            -![alt text](image-8.png)
+     - Juntamento com sua lógica e UX
+    - Icones e suas animações
+        - Design antigo
+
+            - ![alt text](image-11.png)
+
+        - Design atual
+
+            -![alt text](image-6.png)
+
+</details>
+
+### Hard Skills
+
+- Vue
+- TypeScript
+- SVGs
+
+### Soft Skills
+
+**Trabalho em Equipe Multidisciplinar**
+
+Colaboração efetiva com desenvolvedores, designers e stakeholders acadêmicos, promovendo alinhamento entre visões técnicas e pedagógicas.
+
+**Gestão de Tempo e Priorização**
+
+Balanceamento entre demandas de desenvolvimento, documentação e prazos acadêmicos, garantindo entregas iterativas dentro do cronograma.
 
 **Resolução Criativa de Problemas**
 
