@@ -288,7 +288,7 @@ Solução desenvolvida para monitoramento e rastreamento de dispositivos IoT em 
 
 </details>
 
-### Hard Skills
+### Hard Skills 
 
 - Vue
 - TypeScript
@@ -311,3 +311,99 @@ Proposição de soluções alternativas para desafios como integração de siste
 **Adaptabilidade**
 
 Ajuste contínuo a mudanças de escopo e feedback dos usuários durante o ciclo de desenvolvimento ágil.
+
+# 📊 GEO-IOT - Monitoramento de Dispositivos IoT em Tempo Real
+
+**Projeto acadêmico em parceria com a empresa Ito1 (FATEC - 2º Semestre 2024)**
+
+## Contexto
+
+**Desafio Proposto:** Solução desenvolvida para a empresa parceira **Ito1** (especializada em tecnologias IoT) para consumir e plotar dados de **geolocalização** de dispositivos IoT em um mapa, permitindo monitoramento de espaço e tempo em **tempo real**.
+
+A equipe Manolito propôs e entregou a solução **'Geo IoT'**, uma aplicação web robusta, atuando como Desenvolvedor Backend/Frontend.
+
+## Funcionalidades Principais
+
+### Visualização e Rastreamento
+- **Plotagem em Mapa Interativo:** Exibição dinâmica de dispositivos com localização atualizada usando **OpenLayers**.
+- **Função Player:** Permite acompanhar o caminho percorrido por um dispositivo no mapa entre dois períodos.
+- **Marcação de Pontos de Interesse:** Identificação de locais estratégicos no mapa para monitoramento especial.
+
+### Gestão de Alertas e Segurança
+- **Geofencing:** Criação de **Zonas de Interesse** (áreas virtuais) para gerar **Alertas de entrada e saída**.
+- **Autenticação Hierárquica:** Controle de acesso com diferentes níveis (Administrador/Usuário) para uso de funções gerenciais.
+
+### Filtros e Análise
+- **Filtros Avançados:** Seleção de dispositivos por tipo, localização e período específico.
+- **Histórico Completo:** Armazenamento e consulta de trajetórias e eventos passados.
+
+## Tecnologias Utilizadas
+
+Java
+Spring
+Redis
+Vue
+TypeScript
+OpenLayers
+Oracle Cloud
+Docker
+Git
+
+
+### Contribuições Pessoais
+<details>
+<summary>Telas</summary>
+
+- Implementação de:
+
+    - Componente de filtragem por colaborador
+
+        - Design antigo
+
+           ![alt text](images/image-9.png)
+
+        - Design atual
+
+
+            -![alt text](images/image-7.png)
+
+     - Juntamente com sua lógica e UX
+
+        - Preenchimento automático de campos para acelerar a usabilidade do sistema
+
+        - Auto-complete de nomes
+
+
+    - Componente de criação de zona de interesse
+
+        - Design antigo
+
+            - ![alt text](images/image-10.png)
+
+        - Design atual
+
+            -![alt text](images/image-8.png)
+
+     - Juntamento com sua lógica e UX
+
+    - Icones e suas animações
+
+        - Design antigo
+
+            - ![alt text](images/image-11.png)
+
+        - Design atual
+
+            -![alt text](images/image-6.png)
+
+</details>
+
+### Hard Skills
+- **Vue.js**
+- **TypeScript**
+- **Java**
+- **Spring Boot**
+- **Oracle Database/Spatial**
+- **Redis**
+- **Docker**
+- **SVGs/UX**
