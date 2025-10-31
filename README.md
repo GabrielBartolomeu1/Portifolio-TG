@@ -163,15 +163,15 @@ Solução desenvolvida para otimizar a gestão de Turmas de Trabalho de Graduaç
 
 - Implementação de:
     - Tela de importar csv
-        ![alt text](image-2.png)
+        ![alt text](images/image-2.png)
     - Header da aplicação para navagegação do aplicativo
-        ![alt text](image.png)
+        ![alt text](images/image.png)
     - Tela de visualização de atividades
-        ![alt text](image-1.png)
+        ![alt text](images/image-1.png)
     - Tela de criação de atividades
-        ![alt text](image-3.png)
+        ![alt text](images/image-3.png)
     - Tela de relatórios
-        ![alt text](image-4.png)
+        ![alt text](images/image-4.png)
 
 </details>
 
@@ -203,6 +203,68 @@ Proposição de soluções alternativas para desafios como integração de siste
 **Adaptabilidade**
 
 Ajuste contínuo a mudanças de escopo e feedback dos usuários durante o ciclo de desenvolvimento ágil.
+
+# 🗄️ Pipeline Configurator - Configuração de Pipeline de Dados
+
+**Projeto em parceria com a empresa Dom Rock (FATEC - 2024-1)**
+
+## Contexto
+Solução web full-stack desenvolvida para automatizar e configurar as etapas iniciais de uma pipeline de tratamento de dados (Landing Zone, Bronze e Silver) da empresa parceira Dom Rock, uma especialista em tratamento de dados de São José dos Campos. 
+
+O objetivo foi criar uma aplicação para ingestão, tratamento e aplicação de regras de negócio em arquivos de entrada como CSV, transformando-os em dados consumíveis para a tomada de decisão. A aplicação foi entregue pela Equipe Wiz.
+
+## Funcionalidades Principais
+
+* **🛬 Landing Zone:** Entrada de arquivos CSV para a ingestão inicial de dados.
+* **🥉 Bronze:** Definição do **identificador único (ID)**, seleção de colunas para geração de um **hash** e exclusão de dados irrelevantes.
+* **🥈 Silver:** Aplicação de **regras de negócio** e criação de **relacionamentos 'De/Para'** para conversão e padronização dos dados para consumo.
+
+## Tecnologias utilizadas
+
+- Vue
+- TypeScript
+- Java
+- SpringBoot
+- MySql
+
+## Contribuições Pessoais
+
+<details>
+<summary>Backend</summary>
+
+*Desenvolvimento em Java/Spring Boot*
+
+* **APIs REST:** Implementação dos *endpoints* em **Spring Boot** para o **CRUD** das configurações de Bronze e Silver.
+* **Modelagem MySQL:** Criação das estruturas de banco de dados para persistir definições de *hash* e as regras 'De/Para'.
+* **Ingestão de Dados:** Lógica da **Landing Zone** para o processamento e validação inicial dos arquivos CSV.
+</details>
+
+<details>
+<summary> Frontend e Interação (UX)</summary>
+
+*Desenvolvimento em Vue.js e TypeScript*
+
+* **Interface Reativa:** Construção de componentes **Vue.js** para a interface do configurador, focando na usabilidade para a definição de regras complexas.
+
+</details>
+
+<details>
+<summary> Arquitetura e Qualidade</summary>
+
+*Boas Práticas e Fluxo de Trabalho*
+
+* **Padrões de Código:** Aplicação de arquitetura em camadas no backend e padrões de desenvolvimento baseados em componentes no frontend.
+* **Testes:** Realização de testes unitários para validar os métodos da pipeline.
+</details>
+
+
+## Hard Skills
+
+* **Java**
+* **Spring Boot**
+* **SQL**
+* **Vue.js**
+* **TypeScript**
 
 # 📊 GEO-IOT - Sistema de geolocaloização
 
@@ -262,29 +324,29 @@ Solução desenvolvida para monitoramento e rastreamento de dispositivos IoT em 
     - Componente de filtragem por colaborador
         - Design antigo
 
-            -![alt text](image-9.png)
+            -![alt text](images/image-9.png)
         - Design atual
 
-            -![alt text](image-7.png)
+            -![alt text](images/image-7.png)
      - Juntamente com sua lógica e UX
         - Preenchimento automático de campos para acelerar a usabilidade do sistema
         - Auto-complete de nomes
     - Componente de criação de zona de interesse
         - Design antigo
-            - ![alt text](image-10.png)
+            - ![alt text](images/image-10.png)
 
         - Design atual
 
-            -![alt text](image-8.png)
+            -![alt text](images/image-8.png)
      - Juntamento com sua lógica e UX
     - Icones e suas animações
         - Design antigo
 
-            - ![alt text](image-11.png)
+            - ![alt text](images/image-11.png)
 
         - Design atual
 
-            -![alt text](image-6.png)
+            -![alt text](images/image-6.png)
 
 </details>
 
@@ -311,99 +373,3 @@ Proposição de soluções alternativas para desafios como integração de siste
 **Adaptabilidade**
 
 Ajuste contínuo a mudanças de escopo e feedback dos usuários durante o ciclo de desenvolvimento ágil.
-
-# 📊 GEO-IOT - Monitoramento de Dispositivos IoT em Tempo Real
-
-**Projeto acadêmico em parceria com a empresa Ito1 (FATEC - 2º Semestre 2024)**
-
-## Contexto
-
-**Desafio Proposto:** Solução desenvolvida para a empresa parceira **Ito1** (especializada em tecnologias IoT) para consumir e plotar dados de **geolocalização** de dispositivos IoT em um mapa, permitindo monitoramento de espaço e tempo em **tempo real**.
-
-A equipe Manolito propôs e entregou a solução **'Geo IoT'**, uma aplicação web robusta, atuando como Desenvolvedor Backend/Frontend.
-
-## Funcionalidades Principais
-
-### Visualização e Rastreamento
-- **Plotagem em Mapa Interativo:** Exibição dinâmica de dispositivos com localização atualizada usando **OpenLayers**.
-- **Função Player:** Permite acompanhar o caminho percorrido por um dispositivo no mapa entre dois períodos.
-- **Marcação de Pontos de Interesse:** Identificação de locais estratégicos no mapa para monitoramento especial.
-
-### Gestão de Alertas e Segurança
-- **Geofencing:** Criação de **Zonas de Interesse** (áreas virtuais) para gerar **Alertas de entrada e saída**.
-- **Autenticação Hierárquica:** Controle de acesso com diferentes níveis (Administrador/Usuário) para uso de funções gerenciais.
-
-### Filtros e Análise
-- **Filtros Avançados:** Seleção de dispositivos por tipo, localização e período específico.
-- **Histórico Completo:** Armazenamento e consulta de trajetórias e eventos passados.
-
-## Tecnologias Utilizadas
-
-Java
-Spring
-Redis
-Vue
-TypeScript
-OpenLayers
-Oracle Cloud
-Docker
-Git
-
-
-### Contribuições Pessoais
-<details>
-<summary>Telas</summary>
-
-- Implementação de:
-
-    - Componente de filtragem por colaborador
-
-        - Design antigo
-
-           ![alt text](images/image-9.png)
-
-        - Design atual
-
-
-            -![alt text](images/image-7.png)
-
-     - Juntamente com sua lógica e UX
-
-        - Preenchimento automático de campos para acelerar a usabilidade do sistema
-
-        - Auto-complete de nomes
-
-
-    - Componente de criação de zona de interesse
-
-        - Design antigo
-
-            - ![alt text](images/image-10.png)
-
-        - Design atual
-
-            -![alt text](images/image-8.png)
-
-     - Juntamento com sua lógica e UX
-
-    - Icones e suas animações
-
-        - Design antigo
-
-            - ![alt text](images/image-11.png)
-
-        - Design atual
-
-            -![alt text](images/image-6.png)
-
-</details>
-
-### Hard Skills
-- **Vue.js**
-- **TypeScript**
-- **Java**
-- **Spring Boot**
-- **Oracle Database/Spatial**
-- **Redis**
-- **Docker**
-- **SVGs/UX**
