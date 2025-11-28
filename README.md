@@ -79,7 +79,7 @@ A solução foi entregue pela equipe de desenvolvimento **DevMinds**. A aplicaç
 
 ***
 
-### 🎓 SGTG - Sistema Gerenciador de TGs (2023-2)
+### SGTG - Sistema Gerenciador de TGs (2023-2)
 
 **Projeto Acadêmico FATEC (FATEC - 2º Semestre 2023)**
 
@@ -147,7 +147,7 @@ Colaboração efetiva com desenvolvedores para manter um bom fluxo do andamento 
 Balanceamento entre demandas de desenvolvimento, documentação e prazos acadêmicos, garantindo entregas iterativas dentro do cronograma.
 
 
-### ⚙️ Pipeline Configurator - Configuração de Pipeline de Dados (2024-1)
+### Pipeline Configurator - Configuração de Pipeline de Dados (2024-1)
 
 **Projeto em parceria com Dom Rock (FATEC - 2024-1)**
 
@@ -200,7 +200,7 @@ A solução, o '**Pipeline Configurator**', foi entregue pela equipe **Void**. �
 
 ***
 
-### 📍 Geo IoT - Sistema de Geolocalização (2024-2)
+### Geo IoT - Sistema de Geolocalização (2024-2)
 
 **Projeto Acadêmico FATEC (FATEC - 2º Semestre 2024)**
 
