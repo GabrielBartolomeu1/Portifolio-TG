@@ -72,10 +72,15 @@ A solução foi entregue pela equipe de desenvolvimento **DevMinds**. A aplicaç
 
 #### 📊 Dashboards e Análise de Dados
 * **Desenvolvimento de Ferramentas de Análise:**
+
     * Implementação de algoritmos para o cálculo e exibição de **médias de desempenho** de alunos e turmas.
+
 * **Implementação de Dashboards e Visualização:**
+
     * Criação de dashboards dedicados para os perfis de **alunos** e **administradores (admin)**.
+
     * Desenvolvimento e integração de **Indicadores de Desempenho** por competência.
+
     * Implementação de novos componentes de visualização, incluindo **gráficos de barra e área**.
 
 #### ✨ Usabilidade e Melhorias no Sistema
@@ -130,16 +135,37 @@ A solução entregue foi o **SGTG** (Sistema Gerenciador de Trabalho de Graduaç
 <summary>Telas</summary>
 
 - Implementação de:
+
+
     - Tela de importar csv
+
+
         ![alt text](images/image-2.png)
+
+
     - Header da aplicação para navagegação do aplicativo
+
+
         ![alt text](images/image.png)
+
+
     - Tela de visualização de atividades
+
+
         ![alt text](images/image-1.png)
+
+
     - Tela de criação de atividades
+
+
         ![alt text](images/image-3.png)
+
+
     - Tela de relatórios
+
+
         ![alt text](images/image-4.png)
+
 
 </details>
 
@@ -240,24 +266,42 @@ A equipe **Manolito** propôs e entregou o '**Geo IoT**', uma **aplicação web 
 
 - Implementação de:
     - Componente de filtragem por colaborador
+
+
         - Design antigo
 
             -![alt text](images/image-9.png)
+
+
         - Design atual
 
+
             -![alt text](images/image-7.png)
+
+
      - Juntamente com sua lógica e UX
+
+
         - Preenchimento automático de campos para acelerar a usabilidade do sistema
         - Auto-complete de nomes
     - Componente de criação de zona de interesse
+
+
         - Design antigo
+
+
             - ![alt text](images/image-10.png)
 
         - Design atual
 
             -![alt text](images/image-8.png)
+
+
      - Juntamento com sua lógica e UX
+
+
     - Icones e suas animações
+
         - Design antigo
 
             - ![alt text](images/image-11.png)
@@ -310,15 +354,24 @@ A solução, o '**Youtan Dash**', é uma **aplicação web full-stack** com Fron
 
 * **Integração e ETL com Apache Spark**: Fui responsável pela engenharia de dados (Extração, Transformação e Carga). Desenvolvi os serviços em **Java** e **Spring Boot** que utilizam o **Apache Spark** para extrair dados das APIs REST do Taiga, Jira e Trello, realizar o tratamento (limpeza, normalização) e carregar no Data Warehouse.
     * **Integrações Suportadas**:
+
+
         * **Jira**: 
 
         ![Jira Integration Example](images/jira.png)
+
+
         * **Taiga**:
         
          ![Taiga Integration Example](images/taiga.png)
+
+
         * **Trello**:
+
         
          ![Trello Integration Example](images/trello.png)
+
+
 * **Modelagem do Data Warehouse (DW)**: Trabalhei na reestruturação e otimização do esquema de banco de dados **PostgreSQL** (com migrações via **Flyway**) para garantir a performance e a integridade necessárias para o armazenamento de dados analíticos provenientes do ETL.
 * **APIs de Dados**: Criei *endpoints* específicos em **Spring Boot** para fornecer ao Front-end (Vue.js) os dados já processados e agregados, que alimentam os dashboards e métricas.
 * **Histórico de Contribuições**: [Link para o Histórico de Pull Requests](https://github.com/manolito-fatec/web-server-2025-1/pulls?q=is%3Apr+is%3Aclosed+author%3AGabrielBartolomeu1)
