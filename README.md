@@ -368,3 +368,48 @@ A arquitetura envolveu um front-end em **Vue.js**, back-end em **Java Spring Boo
 * **Back-end**: **Java**, **Spring Boot**, **Spring Security** (+JWT), **JPA/Hibernate**, **PostgreSQL**, **MongoDB**, **Python**, **Vault**, **Swagger**.
 * **Front-end**: **Vue.js**, **TypeScript**, **PrimeVue**, **Axios**.
 * **DevOps/Outros**: **Docker**, **IntelliJ IDEA**, **VS Code**, **Figma**.
+
+### 🌟 Contribuições Pessoais
+
+<details>
+<summary>📈 Backend e Análise de Dados (Java/Spring Boot)</summary>
+
+* **APIs Analíticas de Desempenho (KPIs):** Desenvolvi e implementei os endpoints em **Java/Spring Boot** responsáveis por calcular e expor métricas gerenciais chave, essenciais para os Dashboards:
+
+
+    * Criação do **Endpoint de Tempo Médio de Resolução**.
+    
+
+        ![Endpoint de Tempo Médio de Resolução](images/averageTime.png)
+
+
+    * Implementação do **Serviço `getCount` de Subcategorias**, fornecendo a base de dados para a regra de Pareto e volume de tickets.
+    
+
+        ![Serviço de Contagem de Subcategorias](images/countSubcategory.png)
+
+</details>
+
+<details>
+<summary>🌐 Front-end e User Experience (Vue.js/TypeScript)</summary>
+
+* **Dashboards de Insights (Pareto):** Desenvolvi o componente **Gráfico de Pareto** em **Vue.js/PrimeVue**, traduzindo os dados de subcategorias em visualizações focadas nas prioridades de resolução (Regra 80/20).
+    
+        ![Gráfico de Pareto](images/pareto.png)
+* **Busca Avançada e Filtragem:** Implementei as funcionalidades de filtros dinâmicos no sistema, melhorando a capacidade do usuário de segmentar tickets e encontrar informações rapidamente:
+    * Implementação e melhoria do **Filtro de Busca por Cliente**.
+    * Implementação do **Filtro de Busca por Produto**.
+    
+        ![Filtro de Busca e Insights](images/filtroInsights.png)
+* **Integração Preditiva:** Construí o componente de **Previsão de Tickets Estourarem**, garantindo a exibição clara e reativa dos alertas de risco de SLA calculados pelo backend.
+
+</details>
+
+### 🔑 Hard Skills
+* **Java** e **Spring Boot** * **JPA Specification** e **Criteria Builder**
+* **Vue.js** e **TypeScript**
+
+### 🤝 Soft Skills
+* **Visão de Produto:** Foco na tradução de necessidades de negócio (monitoramento de SLA e volume de chamados) em *endpoints* de dados concretos e componentes de visualização (**Gráfico de Pareto**), garantindo que o produto entregue valor gerencial.
+* **Solução de Problemas em Arquiteturas Híbridas:** Habilidade em integrar e orquestrar serviços de backend (**Java/Spring Boot**) com diferentes tecnologias de persistência (**PostgreSQL**)
+* **Orientação à Qualidade:** Garantia da qualidade dos dados expostos pelos endpoints para Dashboards e foco na experiência do usuário ao desenvolver filtros de busca rápidos e intuitivos.
