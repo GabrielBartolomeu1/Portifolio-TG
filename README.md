@@ -6,28 +6,43 @@ Tenho **21 anos** e atualmente estou me graduando em **Banco de Dados** pela FAT
 
 ## Contatos
 
-* [GITHUB](https://github.com/GabrielBartolomeu1)
-* [LINKEDIN](https://www.linkedin.com/in/gabriel-guska-5860a1271)
+| Plataforma | Link |
+| :--- | :--- |
+| **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-guska-5860a1271) |
+| **E-mail** | [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL@gmail.com) |
 
 ---
 
 ## 💻 Conhecimentos
 
-### Linguagens de Programação
-* **Java**
-* **Python**
-* **JavaScript**
-* **TypeScript**
+Abaixo estão as principais tecnologias utilizadas em meus projetos:
 
-### Bancos de Dados
-* **MySQL**
-* **PostgreSQL**
+### Linguagens
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-### Ferramentas
-* **Git/GitHub**
-* **Docker**
-* **Apache Spark**
-* **Spring Boot**
+### Back-end & Frameworks
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-42A5F5?style=for-the-badge&logo=javafx&logoColor=white)
+
+### Bancos de Dados & Análise
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-003366?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### Ferramentas & DevOps
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![SonarCloud](https://img.shields.io/badge/SonarCloud-F37021?style=for-the-badge&logo=sonarcloud&logoColor=white)
+![Flyway](https://img.shields.io/badge/Flyway-CC0202?style=for-the-badge&logo=flyway&logoColor=white)
 
 ---
 
