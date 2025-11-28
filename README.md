@@ -4,40 +4,40 @@
 
 Tenho **21 anos** e atualmente estou me graduando em **Banco de Dados** pela FATEC Prof. Jessen Vidal.
 
-## Contatos
+## Contatos 📞
 
 | Plataforma | Link |
 | :--- | :--- |
 | **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-guska-5860a1271) |
-| **E-mail** | [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL@gmail.com) |
+| **E-mail** | 📧 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL@gmail.com) |
 
 ---
 
-## 💻 Conhecimentos
+## Conhecimentos 🧠
 
 Abaixo estão as principais tecnologias utilizadas em meus projetos:
 
-### Linguagens
+### 💻 Linguagens
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-### Back-end & Frameworks
+### ⚙️ Back-end & Frameworks
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/JavaFX-42A5F5?style=for-the-badge&logo=javafx&logoColor=white)
 
-### Bancos de Dados & Análise
+### 🗄️ Bancos de Dados & Análise
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-003366?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-003366?style=for-for-the-badge&logo=matplotlib&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### Ferramentas & DevOps
+### 🚀 Ferramentas & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -46,6 +46,7 @@ Abaixo estão as principais tecnologias utilizadas em meus projetos:
 
 ---
 
+## Projetos Acadêmicos e Experiência
 
 ### eVal360 - Sistema de Avaliação 360° (2023-1)
 
@@ -67,27 +68,25 @@ A solução foi entregue pela equipe de desenvolvimento **DevMinds**. A aplicaç
 * **Arquivos CSV**: Utilizados como um 'pseudo banco de dados'.
 * **Git** e **Github**: Controle de versionamento e hospedagem.
 
-#### Contribuições Pessoais
+### 🌟 Contribuições Pessoais
 
-## Dashboards e Análise de Dados
-
+#### 📊 Dashboards e Análise de Dados
 * **Desenvolvimento de Ferramentas de Análise:**
-    * Implementação de algoritmos para o cálculo e exibição de **médias de desempenho** de alunos e turmas.
+    * Implementação de algoritmos para o cálculo e exibição de **médias de desempenho** de alunos e turmas.
 * **Implementação de Dashboards e Visualização:**
-    * Criação de dashboards dedicados para os perfis de **alunos** e **administradores (admin)**.
-    * Desenvolvimento e integração de **Indicadores de Desempenho** por competência.
-    * Implementação de novos componentes de visualização, incluindo **gráficos de barra e área**.
+    * Criação de dashboards dedicados para os perfis de **alunos** e **administradores (admin)**.
+    * Desenvolvimento e integração de **Indicadores de Desempenho** por competência.
+    * Implementação de novos componentes de visualização, incluindo **gráficos de barra e área**.
 
-## Usabilidade e Melhorias no Sistema
-
+#### ✨ Usabilidade e Melhorias no Sistema
 * Colaboração na otimização da **navegação do usuário** no sistema, resultando em uma experiência mais intuitiva e eficiente.
 
-#### Hard Skills
+### 🔑 Hard Skills
 * **Python**
 * **Git**
 * **Matplotlib**
 
-#### Soft Skills
+### 🤝 Soft Skills
 * **Trabalho em Equipe**: Como membro da equipe dividimos as tarefas igualmente para membros da equipe deixando cada um focando no seu ponto forte e assim mantendo uma organização na equipe.
 * **Comunicação**: Como membro de uma equipe trabalhando com outros desenvolvedores pela primeira vez, tive que aprender a comunicar minhas contribuições para equipe para poder me alinhar com os outros membros e mantendo um fluxo bom no desenvolvimento para que todos estivessem na mesma página.
 * **Proatividade**: Como eu tive interesse em aprender sobre a biblioteca do matplot, me despus a pegar as tasks de dashboards e implementar eles.
@@ -120,10 +119,10 @@ A solução entregue foi o **SGTG** (Sistema Gerenciador de Trabalho de Graduaç
 <summary>Documentação</summary>
 
 - Documentação de instalação:
-    - Dependências do projeto
-        - https://github.com/avilajp/API-2-Semestre-DevMinds/blob/0516b121890a6bfb5591926aeaba852d81bf6b8a/AppTG/Manuais/MySQLManual.pdf
-    - MySQL 
-        - https://github.com/avilajp/API-2-Semestre-DevMinds/blob/0516b121890a6bfb5591926aeaba852d81bf6b8a/AppTG/Manuais/MySQLManual.pdf
+    - Dependências do projeto
+        - https://github.com/avilajp/API-2-Semestre-DevMinds/blob/0516b121890a6bfb5591926aeaba852d81bf6b8a/AppTG/Manuais/MySQLManual.pdf
+    - MySQL 
+        - https://github.com/avilajp/API-2-Semestre-DevMinds/blob/0516b121890a6bfb5591926aeaba852d81bf6b8a/AppTG/Manuais/MySQLManual.pdf
 - Documentação do manual do usuário
 </details>
 
@@ -131,27 +130,27 @@ A solução entregue foi o **SGTG** (Sistema Gerenciador de Trabalho de Graduaç
 <summary>Telas</summary>
 
 - Implementação de:
-    - Tela de importar csv
-        ![alt text](images/image-2.png)
-    - Header da aplicação para navagegação do aplicativo
-        ![alt text](images/image.png)
-    - Tela de visualização de atividades
-        ![alt text](images/image-1.png)
-    - Tela de criação de atividades
-        ![alt text](images/image-3.png)
-    - Tela de relatórios
-        ![alt text](images/image-4.png)
+    - Tela de importar csv
+        ![alt text](images/image-2.png)
+    - Header da aplicação para navagegação do aplicativo
+        ![alt text](images/image.png)
+    - Tela de visualização de atividades
+        ![alt text](images/image-1.png)
+    - Tela de criação de atividades
+        ![alt text](images/image-3.png)
+    - Tela de relatórios
+        ![alt text](images/image-4.png)
 
 </details>
 
-### Hard Skills
+### 🔑 Hard Skills
 
 - Java
 - JavaFX
 - MySQL
 
 
-### Soft Skills
+### 🤝 Soft Skills
 
 **Trabalho em Equipe**
 
@@ -180,10 +179,10 @@ A solução, o '**Pipeline Configurator**', foi entregue pela equipe **Void**. �
 * **Front-end**: **Vue.js**, **TypeScript**.
 * **Git/GitHub**.
 
-#### Contribuições Pessoais
+### 🌟 Contribuições Pessoais
 
 <details>
-<summary>Backend (Java/Spring Boot) e Arquitetura</summary>
+<summary>💻 Backend (Java/Spring Boot) e Arquitetura</summary>
 
 *Desenvolvimento em Java/Spring Boot*
 
@@ -193,7 +192,7 @@ A solução, o '**Pipeline Configurator**', foi entregue pela equipe **Void**. �
 </details>
 
 <details>
-<summary> Frontend e Interação (UX)</summary>
+<summary>🌐 Frontend e Interação (UX)</summary>
 
 *Desenvolvimento em Vue.js e TypeScript*
 
@@ -203,12 +202,12 @@ A solução, o '**Pipeline Configurator**', foi entregue pela equipe **Void**. �
 * **Testes**: Realização de **testes unitários** no backend.
 </details>
 
-#### Hard Skills
+### 🔑 Hard Skills
 * **Java** e **Spring Boot**: Autonomia (Security, JWT, mapeamento de entidades, serviços e *controllers*).
 * **SQL**: Autonomia (DDL e DQL).
 * **Vue.js** e **TypeScript**.
 
-#### Soft Skills
+### 🤝 Soft Skills
 * **Trabalho em Equipe e Colaboração Interfuncional**: Como membro da equipe, colaborei ativamente com desenvolvedores front-end e back-end para garantir a integração perfeita entre os serviços e a interface.
 * **Solução de Problemas Complexos (Pipeline de Dados)**: Apliquei raciocínio lógico e analítico para desenhar a arquitetura da pipeline (Landing Zone, Bronze, Silver) e traduzir as complexas regras de negócio da Dom Rock (hash, exclusão, De/Para) em estruturas de dados e APIs REST funcionais.
 * **Comunicação Técnica e Não-Técnica**: Mantive uma comunicação clara sobre o progresso e os desafios técnicos (APIs, persistência de dados) tanto dentro da equipe quanto com a parceira Dom Rock, garantindo o alinhamento das entregas com os requisitos do projeto.
@@ -224,58 +223,58 @@ O desafio foi proposto pela parceira **Ito1**, especializada em tecnologias IoT.
 A equipe **Manolito** propôs e entregou o '**Geo IoT**', uma **aplicação web full-stack** com Front-end **Vue.js**, servidor **Java Spring Boot** e banco de dados **Oracle Cloud**.
 
 #### Funcionalidades
-* 🗺️ **Plotagem dos dados** de geolocalização em um mapa.
-* 🔍 **Filtros** de dispositivos por tipo, localização e período.
-* 📐 **Geofencing**: Criação de áreas de interesse para alertas.
-* 🔐 **Controle de Acesso** por níveis de usuário.
+* **Plotagem dos dados** de geolocalização em um mapa.
+* **Filtros** de dispositivos por tipo, localização e período.
+* **Geofencing**: Criação de áreas de interesse para alertas.
+* **Controle de Acesso** por níveis de usuário.
 
 #### Tecnologias Utilizadas
 * **Back-end**: **Java**, **Spring Boot**, **Oracle Cloud** (**Oracle Database/Spatial**), **Redis**, **Docker**.
 * **Front-end**: **Vue.js**, **TypeScript**, **OpenLayers**.
 * **Git/GitHub**.
 
-#### Contribuições Pessoais
+### 🌟 Contribuições Pessoais
 
 <details>
-<summary>Telas</summary>
+<summary>🌐 Telas e Experiência do Usuário (UX)</summary>
 
 - Implementação de:
-    - Componente de filtragem por colaborador
-        - Design antigo
+    - Componente de filtragem por colaborador
+        - Design antigo
 
-            -![alt text](images/image-9.png)
-        - Design atual
+            -![alt text](images/image-9.png)
+        - Design atual
 
-            -![alt text](images/image-7.png)
-     - Juntamente com sua lógica e UX
-        - Preenchimento automático de campos para acelerar a usabilidade do sistema
-        - Auto-complete de nomes
-    - Componente de criação de zona de interesse
-        - Design antigo
-            - ![alt text](images/image-10.png)
+            -![alt text](images/image-7.png)
+     - Juntamente com sua lógica e UX
+        - Preenchimento automático de campos para acelerar a usabilidade do sistema
+        - Auto-complete de nomes
+    - Componente de criação de zona de interesse
+        - Design antigo
+            - ![alt text](images/image-10.png)
 
-        - Design atual
+        - Design atual
 
-            -![alt text](images/image-8.png)
-     - Juntamento com sua lógica e UX
-    - Icones e suas animações
-        - Design antigo
+            -![alt text](images/image-8.png)
+     - Juntamento com sua lógica e UX
+    - Icones e suas animações
+        - Design antigo
 
-            - ![alt text](images/image-11.png)
+            - ![alt text](images/image-11.png)
 
-        - Design atual
+        - Design atual
 
-            -![alt text](images/image-6.png)
+            -![alt text](images/image-6.png)
 
 </details>
 
-#### Hard Skills
+### 🔑 Hard Skills
 * **Java** e **Spring Boot**
 * **Oracle Cloud**
 * **CI** e **Git/GitHub**.
 * **Vue** e **TypeScript**.
 
-### Soft Skills
+### 🤝 Soft Skills
 
 **Comunicação**: Comunicação sobre andamento de tarefas tanto com o SM quanto com os desenvolvedores para manter todos alinhados.
 
@@ -292,41 +291,41 @@ O desafio proposto pela empresa **Youtan** consistiu em desenvolver uma aplicaç
 A solução, o '**Youtan Dash**', é uma **aplicação web full-stack** com Front-end em **Vue.js**, servidor **Java Spring Boot** com serviços **Apache Spark** e banco de dados **PostgreSQL**.
 
 ## Funcionalidades
-* 🔗 **Integração com APIs** das ferramentas Taiga, Jira e Trello.
-* 📈 **Dashboards com métricas** de produtividade (Tasks/Cards criados/completados, tempo médio de finalização, retrabalhos).
-* 👤 **Controle de acesso** por níveis de usuário.
-* 📤 **Exportação de dados** de Dashboards para `.csv`.
+* **Integração com APIs** das ferramentas Taiga, Jira e Trello.
+* **Dashboards com métricas** de produtividade (Tasks/Cards criados/completados, tempo médio de finalização, retrabalhos).
+* **Controle de acesso** por níveis de usuário.
+* **Exportação de dados** de Dashboards para `.csv`.
 
 ## Tecnologias Utilizadas
 * **Back-end**: **Java**, **Spring Boot**, **Spring Security**, **PostgreSQL**, **Apache Spark** (para ETL), **Flyway**, **JWT**, **JUnit**.
 * **Front-end**: **Vue.js**, **TypeScript**, **PrimeVue**, **Axios**.
 * **DevOps**: **GitHub Actions** (CI/CD), **SonarCloud**.
 
-## Contribuições Pessoais
+### 🌟 Contribuições Pessoais
 
 <details>
-<summary>ETL, Data Analytics e Integração de Dados</summary>
+<summary>💡 ETL, Data Analytics e Integração de Dados</summary>
 
 *Desenvolvimento do Back-end de Integração e Processamento*
 
 * **Integração e ETL com Apache Spark**: Fui responsável pela engenharia de dados (Extração, Transformação e Carga). Desenvolvi os serviços em **Java** e **Spring Boot** que utilizam o **Apache Spark** para extrair dados das APIs REST do Taiga, Jira e Trello, realizar o tratamento (limpeza, normalização) e carregar no Data Warehouse.
-    * **Integrações Suportadas**:
-        * **Jira**: 
+    * **Integrações Suportadas**:
+        * **Jira**: 
 
-        ![Jira Integration Example](images/jira.png)
-        * **Taiga**:
-        
-         ![Taiga Integration Example](images/taiga.png)
-        * **Trello**:
-        
-         ![Trello Integration Example](images/trello.png)
+        ![Jira Integration Example](images/jira.png)
+        * **Taiga**:
+        
+         ![Taiga Integration Example](images/taiga.png)
+        * **Trello**:
+        
+         ![Trello Integration Example](images/trello.png)
 * **Modelagem do Data Warehouse (DW)**: Trabalhei na reestruturação e otimização do esquema de banco de dados **PostgreSQL** (com migrações via **Flyway**) para garantir a performance e a integridade necessárias para o armazenamento de dados analíticos provenientes do ETL.
 * **APIs de Dados**: Criei *endpoints* específicos em **Spring Boot** para fornecer ao Front-end (Vue.js) os dados já processados e agregados, que alimentam os dashboards e métricas.
 * **Histórico de Contribuições**: [Link para o Histórico de Pull Requests](https://github.com/manolito-fatec/web-server-2025-1/pulls?q=is%3Apr+is%3Aclosed+author%3AGabrielBartolomeu1)
 </details>
 
 <details>
-<summary>DevOps e Qualidade de Processo</summary>
+<summary>⚙️ DevOps e Qualidade de Processo</summary>
 
 * **Rastreabilidade de Requisitos**: Implementei práticas de DevOps e documentação para garantir a rastreabilidade completa entre os requisitos de negócio definidos pela Youtan e as tarefas de desenvolvimento, assegurando que cada funcionalidade fosse validada e entregue conforme a especificação.
 * **Portal de Rastreabilidade**: [Acesse o Site de Rastreabilidade de Requisitos](https://youtan-req.vercel.app/#Introduction)
@@ -334,13 +333,38 @@ A solução, o '**Youtan Dash**', é uma **aplicação web full-stack** com Fron
 </details>
 
 
-## Hard Skills
+### 🔑 Hard Skills
 * **Java** e **Spring Boot**
 * **Apache Spark**
 * **PostgreSQL**
 * **Vue.js** e **TypeScript**
 
-## Soft Skills
+### 🤝 Soft Skills
 * **Visão Sistêmica e Arquitetura**: Habilidade para desenhar e integrar um fluxo de dados complexo (APIs externas -> Spark ETL -> DW -> APIs Spring Boot) em uma arquitetura full-stack coesa.
 * **Orientação a Resultados (Indicadores)**: Foco em traduzir requisitos de negócio (KPIs de projeto) em soluções técnicas de ETL e Dashboards, garantindo que o sistema entregue valor imediato à empresa parceira (Youtan).
 * **Organização e Qualidade de Processo**: Responsabilidade pela implementação da rastreabilidade de requisitos, assegurando a conformidade do produto final com as especificações iniciais e mantendo um ciclo de desenvolvimento (DevOps) transparente.
+
+***
+
+### Pardal - Gerenciamento Inteligente de Tickets e LGPD (2025-2)
+
+**Projeto Final de Graduação (6º Semestre) em parceria com Pro4Tech**
+
+O desafio do último semestre envolveu a modernização do sistema de suporte do cliente real **Pro4Tech**, que enfrentava dificuldades com o controle manual de tickets em uma base de dados legada, falta de histórico consolidado e ausência de indicadores de desempenho. Além disso, havia uma necessidade crítica de adequação à **Lei Geral de Proteção de Dados (LGPD)** no manuseio de informações sensíveis.
+
+A equipe **Manolito** propôs e entregou a solução '**Pardal**', uma plataforma completa de gerenciamento de chamados que centraliza o atendimento, aplica inteligência artificial para *insights* preditivos e garante a anonimização automática de dados sensíveis.
+
+A arquitetura envolveu um front-end em **Vue.js**, back-end em **Java Spring Boot** integrado a scripts **Python** para ETL e IA, utilizando bancos de dados **PostgreSQL** e **MongoDB**.
+
+## Funcionalidades
+* **Modernização LGPD**: Identificação e anonimização automática de dados sensíveis em campos de texto livre utilizando Regex e NLP (Processamento de Linguagem Natural).
+* **Insights Preditivos**: Utilização de IA para prever riscos de estouro de SLA (Service Level Agreement) e classificar tickets.
+* **Dashboards Gerenciais**: Visualização de KPIs como tempo médio de resolução, volume de tickets e taxa de recorrência.
+* **Busca Avançada**: Sistema de filtragem dinâmica por múltiplos critérios (status, categoria, agente, prioridade).
+* **Relatórios Personalizados**: Exportação de dados e gráficos dos dashboards em formatos PDF e CSV.
+
+## Tecnologias Utilizadas
+
+* **Back-end**: **Java**, **Spring Boot**, **Spring Security** (+JWT), **JPA/Hibernate**, **PostgreSQL**, **MongoDB**, **Python**, **Vault**, **Swagger**.
+* **Front-end**: **Vue.js**, **TypeScript**, **PrimeVue**, **Axios**.
+* **DevOps/Outros**: **Docker**, **IntelliJ IDEA**, **VS Code**, **Figma**.
