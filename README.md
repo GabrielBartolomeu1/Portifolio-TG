@@ -1,151 +1,105 @@
-<h1>Gabriel Bartolomeu Guska<h1>
+# Gabriel Bartolomeu Guska
 
-<h2>Introdução<h2>
+## Introdução
 
-Tenho 21 anos e atualmente estou me graduando em Banco de dados pela FATEC Prof. Jessen Vidal
+Tenho **21 anos** e atualmente estou me graduando em **Banco de Dados** pela FATEC Prof. Jessen Vidal.
 
-<h2>Contatos<h2>
+## Contatos
 
-[GITHUB](https://github.com/GabrielBartolomeu1)
+* [GITHUB](https://github.com/GabrielBartolomeu1)
+* [LINKEDIN](https://www.linkedin.com/in/gabriel-guska-5860a1271)
 
-[LINKEDIN](https://www.linkedin.com/in/gabriel-guska-5860a1271)
+---
 
-<h2>Conhecimentos<h2>
+## 💻 Conhecimentos
 
-### Linguagens de Programação:
-- Java
-- Python
-- JavaScript
-- TypeScript
+### Linguagens de Programação
+* **Java**
+* **Python**
+* **JavaScript**
+* **TypeScript**
 
-### Bancos de Dados:
-- MySQL
-- PostgreSQL
+### Bancos de Dados
+* **MySQL**
+* **PostgreSQL**
 
-### Ferramentas:
-- Git/GitHub
-- Docker
+### Ferramentas
+* **Git/GitHub**
+* **Docker**
+* **Apache Spark**
+* **Spring Boot**
 
-<h2>Projetos<h2>
+---
 
-# 📊 eVal360 - Sistema de Avaliação 360° 
 
-**Projeto acadêmico desenvolvido para PBLTeX (FATEC - 1º Semestre 2023)**  
+### eVal360 - Sistema de Avaliação 360° (2023-1)
 
-## Contexto
-Solução desenvolvida para automatizar avaliações 360° em instituições de ensino, como projeto integrador da graduação em Banco de Dados. Atuei como desenvolvedor da equipe DevMinds.
+**Projeto Acadêmico PBLTeX (FATEC - 1º Semestre 2023)**
 
-## Funcionalidades Principais
+O primeiro projeto desenvolvido durante a graduação foi proposto pela empresa-cliente fictícia PBLTeX com o desafio de desenvolver uma aplicação de **Avaliação 360°** para uso interno da instituição de ensino.
 
-### Autenticação e Controle de Acesso
-O sistema realiza autenticação comparando os dados de login com um banco de usuários armazenado em arquivo CSV (`usersDB.csv`), com dois níveis de acesso distintos: Administradores têm acesso completo à gestão de turmas e dashboards, enquanto Usuários comuns podem apenas participar das avaliações.
+A solução foi entregue pela equipe de desenvolvimento **DevMinds**. A aplicação, com o nome de '**eVal360**', foi desenvolvida para uso em **terminal** com algumas janelas de dashboards que aparecem em algumas interações. Um arquivo **CSV** foi utilizado como um pseudo banco de dados. O projeto foi desenvolvido 100% em **Python**.
 
-### Gestão Acadêmica
-Permite a criação e organização de turmas (cursos) e times (equipes), com validação para garantir que cada usuário participe de apenas uma equipe por turma. Durante a criação de turmas, é possível configurar parâmetros personalizados para Sprints, incluindo quantidade e duração em dias.
+#### Principais Funcionalidades
+* **Autenticação de usuários** e **Controle de acesso** por níveis (Admin/Usuário).
+* **Gerenciamento de turmas** e equipes.
+* **Controle de Sprints** com configuração personalizada.
+* **Dashboards gerenciais** com visualização de métricas (Matplotlib).
 
-### Análise de Dados
-Oferece dashboards interativos com visualização gráfica das avaliações, destacando:
-- Desempenho individual por fator de avaliação
-- Médias por turma com identificação visual de fatores acima/abaixo da média
-- Comparativos entre equipes e sprints
+#### Tecnologias Utilizadas
+* **Python**: Principal linguagem de desenvolvimento.
+* **Matplotlib**: Biblioteca para a montagem e exibição de gráficos para os dashboards.
+* **Arquivos CSV**: Utilizados como um 'pseudo banco de dados'.
+* **Git** e **Github**: Controle de versionamento e hospedagem.
 
-### Tecnologias utilizadas
+#### Contribuições Pessoais
 
-- VS Code
-- Python
-- Matplotlib
-- Github
-- Clickup
-- Miro
-- Csv
+## Dashboards e Análise de Dados
 
-### Contribuições pessoais
+* **Desenvolvimento de Ferramentas de Análise:**
+    * Implementação de algoritmos para o cálculo e exibição de **médias de desempenho** de alunos e turmas.
+* **Implementação de Dashboards e Visualização:**
+    * Criação de dashboards dedicados para os perfis de **alunos** e **administradores (admin)**.
+    * Desenvolvimento e integração de **Indicadores de Desempenho** por competência.
+    * Implementação de novos componentes de visualização, incluindo **gráficos de barra e área**.
 
-<details>
-<summary>Métricas</summary>
+## Usabilidade e Melhorias no Sistema
 
-*Dashboard Analítico*
+* Colaboração na otimização da **navegação do usuário** no sistema, resultando em uma experiência mais intuitiva e eficiente.
 
-- Desenvolvimento de ferramentas de análise:
-    - Adicionei algoritmos para calculo de médias de alunos, turmas
-    - Colaborei na melhora de navegação do usuário no sistema
-</details>
+#### Hard Skills
+* **Python**
+* **Git**
+* **Matplotlib**
 
-<details>
-<summary>Dashboards</summary>
+#### Soft Skills
+* **Trabalho em Equipe**: Como membro da equipe dividimos as tarefas igualmente para membros da equipe deixando cada um focando no seu ponto forte e assim mantendo uma organização na equipe.
+* **Comunicação**: Como membro de uma equipe trabalhando com outros desenvolvedores pela primeira vez, tive que aprender a comunicar minhas contribuições para equipe para poder me alinhar com os outros membros e mantendo um fluxo bom no desenvolvimento para que todos estivessem na mesma página.
+* **Proatividade**: Como eu tive interesse em aprender sobre a biblioteca do matplot, me despus a pegar as tasks de dashboards e implementar eles.
 
-*Visualização de Dados*
+***
 
-- Implementação de:
-    - Criação de gráfico de barra, área
-    - Criação de dashboards para alunos e admin
-    - Indicadores de desempenho por competência
+### 🎓 SGTG - Sistema Gerenciador de TGs (2023-2)
 
-</details>
+**Projeto Acadêmico FATEC (FATEC - 2º Semestre 2023)**
 
-### Hard Skills
+O desafio proposto foi o desenvolvimento de uma ferramenta para **gerenciamento de trabalhos de graduação (TG)** de uso interno da instituição de ensino, sendo o cliente a própria **FATEC**.
 
-Pyhton
+A solução entregue foi o **SGTG** (Sistema Gerenciador de Trabalho de Graduação), uma **aplicação desktop** (utilizando JavaFX) para uso dos professores. A aplicação utiliza um **MySQL** como SGBD.
 
-### Soft skills
+#### Principais Funcionalidades
+* **Sistema hierárquico de perfis** (Administradores, Professores, Alunos).
+* **Gestão Acadêmica Completa**: Criação de turmas de TG e controle de cronogramas.
+* **Ferramentas de Avaliação**: Critérios personalizáveis, geração de feedbacks e certificados.
+* **Dashboard Analítico**.
 
-**Trabalho em Equipe**  
-Experiência prática em colaboração efetiva em um ambiente de desenvolvimento ágil, aprendendo a balancear contribuições individuais com objetivos coletivos. Desenvolvimento da capacidade de adaptação a diferentes estilos de trabalho e personalidades dentro da equipe.
-
-**Gestão de Tempo e Priorização**  
-Domínio crescente na organização de tarefas e cumprimento de prazos em um contexto de desenvolvimento iterativo. Aprimoramento da habilidade de discernir entre urgência e importância nas demandas técnicas.
-
-**Resolução de Problemas**  
-Desenvolvimento do pensamento analítico e criativo para enfrentar desafios técnicos, aprendendo a abordar obstáculos de forma estruturada e colaborativa.
-
-**Adaptabilidade**  
-Capacidade de responder positivamente a mudanças de requisitos e feedbacks contínuos, mantendo a produtividade em um ambiente dinâmico de desenvolvimento.
-
-**Aprendizado Contínuo**  
-Disposição para adquirir novos conhecimentos técnicos e comportamentais, aplicando-os imediatamente no contexto do projeto.
-
-# 📊 SGTG - Sistema de Gestão de Trabalhos de Graduação  
-
-**Projeto acadêmico desenvolvido para Fatec (FATEC - 2º Semestre 2023)**  
-
-## Contexto  
-Solução desenvolvida para otimizar a gestão de Turmas de Trabalho de Graduação (TG) em instituições de ensino, como projeto integrador da graduação em Banco de Dados.  
-
-## Funcionalidades Principais  
-
-### Autenticação e Controle de Acesso  
-- Sistema hierárquico de perfis (Administradores, Professores, Alunos)  
-- Gerenciamento centralizado de usuários e permissões  
-- Integração com sistemas institucionais  
-
-### Gestão Acadêmica Completa  
-- Criação e organização de turmas de TG com parâmetros customizáveis  
-- Controle de cronogramas e prazos acadêmicos  
-- Validação de regras de formação de grupos/orientações  
-- Histórico completo de turmas atuais e anteriores  
-
-### Ferramentas de Avaliação  
-- Sistema personalizável de critérios de avaliação  
-- Geração automática de feedbacks detalhados  
-- Emissão de certificados oficiais para concluintes  
-- Comparativos de desempenho entre turmas e períodos  
-
-### Dashboard Analítico  
-- Visualização gráfica do desempenho das turmas  
-- Indicadores de evolução histórica  
-- Relatórios gerenciais para tomada de decisão  
-
-## Tecnológias utilizadas  
-- Java                          
-- JavaFX                        
-- Maven                         
-- MySQL                         
-- IntelliJ IDEA
-- Draw.io        
-- GitHub                        
-- Discord                       
-
-### Contribuições pessoais
+#### Tecnologias Utilizadas
+* **Java**: Linguagem principal para lógica e regras de negócio.
+* **JavaFX**: Framework para criação das telas da aplicação desktop.
+* **MySQL**: SGBD para armazenamento dos dados.
+* **Maven**: Ferramenta de automação de compilação.
+* **JDBC**: Conexão entre Java e MySQL.
+* **Git/Github**.
 
 <details>
 <summary>Documentação</summary>
@@ -184,53 +138,37 @@ Solução desenvolvida para otimizar a gestão de Turmas de Trabalho de Graduaç
 
 ### Soft Skills
 
-**Trabalho em Equipe Multidisciplinar**
+**Trabalho em Equipe**
 
-Colaboração efetiva com desenvolvedores, designers e stakeholders acadêmicos, promovendo alinhamento entre visões técnicas e pedagógicas.
+Colaboração efetiva com desenvolvedores para manter um bom fluxo do andamento das tarefas distribuidas entre nós.
 
 **Gestão de Tempo e Priorização**
 
 Balanceamento entre demandas de desenvolvimento, documentação e prazos acadêmicos, garantindo entregas iterativas dentro do cronograma.
 
-**Comunicação Técnica Adaptativa**
 
-Tradução de requisitos complexos em linguagem acessível para diferentes perfis (alunos, professores, gestores) na documentação e manuais.
+### ⚙️ Pipeline Configurator - Configuração de Pipeline de Dados (2024-1)
 
-**Resolução Criativa de Problemas**
+**Projeto em parceria com Dom Rock (FATEC - 2024-1)**
 
-Proposição de soluções alternativas para desafios como integração de sistemas e validação de regras acadêmicas não-lineares.
+O problema foi apresentado pela parceira **Dom Rock**, especialista em tratamento de dados. O desafio foi desenvolver uma aplicação para automatizar e configurar as etapas iniciais de uma **pipeline de tratamento de dados** (**Landing Zone**, **Bronze** e **Silver**).
 
-**Adaptabilidade**
+A solução, o '**Pipeline Configurator**', foi entregue pela equipe **Void**. É uma **aplicação web full-stack** desenvolvida com Front-end **Vue.js**, servidor **Java Spring Boot** e banco de dados **MySQL**.
 
-Ajuste contínuo a mudanças de escopo e feedback dos usuários durante o ciclo de desenvolvimento ágil.
+#### Funcionalidades
+* **🛬 Landing Zone**: Entrada de arquivos CSV para ingestão inicial.
+* **🥉 Bronze**: Definição de **ID único**, seleção de colunas para geração de **hash** e exclusão de dados.
+* **🥈 Silver**: Aplicação de **regras de negócio** e criação de **relacionamentos 'De/Para'**.
 
-# 🗄️ Pipeline Configurator - Configuração de Pipeline de Dados
+#### Tecnologias Utilizadas
+* **Back-end**: **Java**, **Spring Boot** (APIs REST, CRUD), **MySQL**.
+* **Front-end**: **Vue.js**, **TypeScript**.
+* **Git/GitHub**.
 
-**Projeto em parceria com a empresa Dom Rock (FATEC - 2024-1)**
-
-## Contexto
-Solução web full-stack desenvolvida para automatizar e configurar as etapas iniciais de uma pipeline de tratamento de dados (Landing Zone, Bronze e Silver) da empresa parceira Dom Rock, uma especialista em tratamento de dados de São José dos Campos. 
-
-O objetivo foi criar uma aplicação para ingestão, tratamento e aplicação de regras de negócio em arquivos de entrada como CSV, transformando-os em dados consumíveis para a tomada de decisão. A aplicação foi entregue pela Equipe Wiz.
-
-## Funcionalidades Principais
-
-* **🛬 Landing Zone:** Entrada de arquivos CSV para a ingestão inicial de dados.
-* **🥉 Bronze:** Definição do **identificador único (ID)**, seleção de colunas para geração de um **hash** e exclusão de dados irrelevantes.
-* **🥈 Silver:** Aplicação de **regras de negócio** e criação de **relacionamentos 'De/Para'** para conversão e padronização dos dados para consumo.
-
-## Tecnologias utilizadas
-
-- Vue
-- TypeScript
-- Java
-- SpringBoot
-- MySql
-
-## Contribuições Pessoais
+#### Contribuições Pessoais
 
 <details>
-<summary>Backend</summary>
+<summary>Backend (Java/Spring Boot) e Arquitetura</summary>
 
 *Desenvolvimento em Java/Spring Boot*
 
@@ -246,76 +184,42 @@ O objetivo foi criar uma aplicação para ingestão, tratamento e aplicação de
 
 * **Interface Reativa:** Construção de componentes **Vue.js** para a interface do configurador, focando na usabilidade para a definição de regras complexas.
 
+* **Interface Reativa**: Construção de componentes **Vue.js** para a interface do configurador.
+* **Testes**: Realização de **testes unitários** no backend.
 </details>
 
-<details>
-<summary> Arquitetura e Qualidade</summary>
+#### Hard Skills
+* **Java** e **Spring Boot**: Autonomia (Security, JWT, mapeamento de entidades, serviços e *controllers*).
+* **SQL**: Autonomia (DDL e DQL).
+* **Vue.js** e **TypeScript**.
 
-*Boas Práticas e Fluxo de Trabalho*
+#### Soft Skills
+* **Trabalho em Equipe e Colaboração Interfuncional**: Como membro da equipe, colaborei ativamente com desenvolvedores front-end e back-end para garantir a integração perfeita entre os serviços e a interface.
+* **Solução de Problemas Complexos (Pipeline de Dados)**: Apliquei raciocínio lógico e analítico para desenhar a arquitetura da pipeline (Landing Zone, Bronze, Silver) e traduzir as complexas regras de negócio da Dom Rock (hash, exclusão, De/Para) em estruturas de dados e APIs REST funcionais.
+* **Comunicação Técnica e Não-Técnica**: Mantive uma comunicação clara sobre o progresso e os desafios técnicos (APIs, persistência de dados) tanto dentro da equipe quanto com a parceira Dom Rock, garantindo o alinhamento das entregas com os requisitos do projeto.
 
-* **Padrões de Código:** Aplicação de arquitetura em camadas no backend e padrões de desenvolvimento baseados em componentes no frontend.
-* **Testes:** Realização de testes unitários para validar os métodos da pipeline.
-</details>
+***
 
+### 📍 Geo IoT - Sistema de Geolocalização (2024-2)
 
-## Hard Skills
+**Projeto Acadêmico FATEC (FATEC - 2º Semestre 2024)**
 
-* **Java**
-* **Spring Boot**
-* **SQL**
-* **Vue.js**
-* **TypeScript**
+O desafio foi proposto pela parceira **Ito1**, especializada em tecnologias IoT. O objetivo era desenvolver uma ferramenta que consumisse dados de **geolocalização** de dispositivos IoT e os exibisse em um mapa interativo para monitoramento.
 
-# 📊 GEO-IOT - Sistema de geolocaloização
+A equipe **Manolito** propôs e entregou o '**Geo IoT**', uma **aplicação web full-stack** com Front-end **Vue.js**, servidor **Java Spring Boot** e banco de dados **Oracle Cloud**.
 
-**Projeto acadêmico desenvolvido para Fatec (FATEC - 2º Semestre 2024)** 
+#### Funcionalidades
+* 🗺️ **Plotagem dos dados** de geolocalização em um mapa.
+* 🔍 **Filtros** de dispositivos por tipo, localização e período.
+* 📐 **Geofencing**: Criação de áreas de interesse para alertas.
+* 🔐 **Controle de Acesso** por níveis de usuário.
 
-## Contexto  
-Solução desenvolvida para monitoramento e rastreamento de dispositivos IoT em tempo real, como projeto integrador da graduação em Banco de Dados. Atuei como Desenvolvedor Backend da equipe Manolito.
+#### Tecnologias Utilizadas
+* **Back-end**: **Java**, **Spring Boot**, **Oracle Cloud** (**Oracle Database/Spatial**), **Redis**, **Docker**.
+* **Front-end**: **Vue.js**, **TypeScript**, **OpenLayers**.
+* **Git/GitHub**.
 
-## Funcionalidades Principais  
-
-### Monitoramento em Tempo Real  
-- **Visualização em Mapa Interativo**: Exibição dinâmica de dispositivos com histórico de rotas e localização atualizada  
-- **Rastreamento Contínuo**: Acompanhamento preciso da movimentação de cada tag IoT com atualizações em tempo real  
-- **Marcação de Pontos de Interesse**: Identificação de locais estratégicos no mapa para monitoramento especial  
-
-### Filtros e Personalização  
-- **Filtros Avançados**: Seleção por tipo de dispositivo, período, status ou critérios customizados  
-- **Visualização Hierárquica**: Organização de dispositivos por grupos, setores ou prioridades  
-- **Configurações de Exibição**: Personalização de layers e informações mostradas no mapa  
-
-### Geofencing e Alertas  
-- **Zonas de Interesse (Geofencing)**: Criação de áreas virtuais com monitoramento de entrada/saída  
-- **Notificações Inteligentes**: Alertas automáticos para eventos específicos (movimentação suspeita, inatividade, etc.)  
-- **Regras Customizáveis**: Configuração de triggers personalizados para diferentes cenários  
-
-### Relatórios e Análise  
-- **Geração Automática de Relatórios**: Exportação de dados de movimentação em múltiplos formatos  
-- **Histórico Completo**: Armazenamento e consulta de trajetórias e eventos passados  
-- **Indicadores de Desempenho**: Métricas de utilização, tempo em trânsito e eficiência operacional  
-
-### Controle de Acesso  
-- **Perfis Hierárquicos**: Administradores, Supervisores e Operadores com diferentes níveis de permissão  
-- **Gestão Centralizada**: Controle unificado de usuários e dispositivos  
-- **Integração com AD**: Possibilidade de conexão com sistemas corporativos de autenticação  
-
-### Dashboard Analítico  
-- **Visão Consolidada**: Painel com todos os KPIs relevantes em uma única tela  
-- **Gráficos Interativos**: Visualização de dados históricos e tendências  
-- **Alertas Gerenciais**: Notificações para indicadores fora do esperado  
-
-## Tecnológias utilizadas  
-- Java                          
-- Spring
-- Vue
-- MySQL
-- Redis
-- Oracle Cloud
-- Docker
-- Github
-
-### Contribuições pessoais
+#### Contribuições Pessoais
 
 <details>
 <summary>Telas</summary>
@@ -350,26 +254,78 @@ Solução desenvolvida para monitoramento e rastreamento de dispositivos IoT em 
 
 </details>
 
-### Hard Skills 
-
-- Vue
-- TypeScript
-- SVGs
+#### Hard Skills
+* **Java** e **Spring Boot**
+* **Oracle Cloud**
+* **CI** e **Git/GitHub**.
+* **Vue** e **TypeScript**.
 
 ### Soft Skills
 
-**Trabalho em Equipe Multidisciplinar**
+**Comunicação**: Comunicação sobre andamento de tarefas tanto com o SM quanto com os desenvolvedores para manter todos alinhados.
 
-Colaboração efetiva com desenvolvedores, designers e stakeholders acadêmicos, promovendo alinhamento entre visões técnicas e pedagógicas.
+**Adaptabilidade**: Ajuste contínuo a mudanças de escopo e feedback dos usuários durante o ciclo de desenvolvimento ágil.
 
-**Gestão de Tempo e Priorização**
+***
 
-Balanceamento entre demandas de desenvolvimento, documentação e prazos acadêmicos, garantindo entregas iterativas dentro do cronograma.
+### Youtan Dash - Dashboard de Indicadores de Projetos (2025-1)
 
-**Resolução Criativa de Problemas**
+**Projeto em parceria com Youtan (FATEC - 2025-1)**
 
-Proposição de soluções alternativas para desafios como integração de sistemas e validação de regras acadêmicas não-lineares.
+O desafio proposto pela empresa **Youtan** consistiu em desenvolver uma aplicação para uso interno que se integra a ferramentas de gestão de projeto (Taiga, Jira, Trello). O objetivo é gerar e visualizar **indicadores sobre o andamento dos projetos**.
 
-**Adaptabilidade**
+A solução, o '**Youtan Dash**', é uma **aplicação web full-stack** com Front-end em **Vue.js**, servidor **Java Spring Boot** com serviços **Apache Spark** e banco de dados **PostgreSQL**.
 
-Ajuste contínuo a mudanças de escopo e feedback dos usuários durante o ciclo de desenvolvimento ágil.
+## Funcionalidades
+* 🔗 **Integração com APIs** das ferramentas Taiga, Jira e Trello.
+* 📈 **Dashboards com métricas** de produtividade (Tasks/Cards criados/completados, tempo médio de finalização, retrabalhos).
+* 👤 **Controle de acesso** por níveis de usuário.
+* 📤 **Exportação de dados** de Dashboards para `.csv`.
+
+## Tecnologias Utilizadas
+* **Back-end**: **Java**, **Spring Boot**, **Spring Security**, **PostgreSQL**, **Apache Spark** (para ETL), **Flyway**, **JWT**, **JUnit**.
+* **Front-end**: **Vue.js**, **TypeScript**, **PrimeVue**, **Axios**.
+* **DevOps**: **GitHub Actions** (CI/CD), **SonarCloud**.
+
+## Contribuições Pessoais
+
+<details>
+<summary>ETL, Data Analytics e Integração de Dados</summary>
+
+*Desenvolvimento do Back-end de Integração e Processamento*
+
+* **Integração e ETL com Apache Spark**: Fui responsável pela engenharia de dados (Extração, Transformação e Carga). Desenvolvi os serviços em **Java** e **Spring Boot** que utilizam o **Apache Spark** para extrair dados das APIs REST do Taiga, Jira e Trello, realizar o tratamento (limpeza, normalização) e carregar no Data Warehouse.
+    * **Integrações Suportadas**:
+        * **Jira**: 
+
+        ![Jira Integration Example](images/jira.png)
+        * **Taiga**:
+        
+         ![Taiga Integration Example](images/taiga.png)
+        * **Trello**:
+        
+         ![Trello Integration Example](images/trello.png)
+* **Modelagem do Data Warehouse (DW)**: Trabalhei na reestruturação e otimização do esquema de banco de dados **PostgreSQL** (com migrações via **Flyway**) para garantir a performance e a integridade necessárias para o armazenamento de dados analíticos provenientes do ETL.
+* **APIs de Dados**: Criei *endpoints* específicos em **Spring Boot** para fornecer ao Front-end (Vue.js) os dados já processados e agregados, que alimentam os dashboards e métricas.
+* **Histórico de Contribuições**: [Link para o Histórico de Pull Requests](https://github.com/manolito-fatec/web-server-2025-1/pulls?q=is%3Apr+is%3Aclosed+author%3AGabrielBartolomeu1)
+</details>
+
+<details>
+<summary>DevOps e Qualidade de Processo</summary>
+
+* **Rastreabilidade de Requisitos**: Implementei práticas de DevOps e documentação para garantir a rastreabilidade completa entre os requisitos de negócio definidos pela Youtan e as tarefas de desenvolvimento, assegurando que cada funcionalidade fosse validada e entregue conforme a especificação.
+* **Portal de Rastreabilidade**: [Acesse o Site de Rastreabilidade de Requisitos](https://youtan-req.vercel.app/#Introduction)
+* **Testes Automatizados**: Contribuição na escrita de testes unitários (**JUnit**) para garantir a robustez e a confiabilidade dos serviços de ETL e das APIs de processamento de dados.
+</details>
+
+
+## Hard Skills
+* **Java** e **Spring Boot**
+* **Apache Spark**
+* **PostgreSQL**
+* **Vue.js** e **TypeScript**
+
+## Soft Skills
+* **Visão Sistêmica e Arquitetura**: Habilidade para desenhar e integrar um fluxo de dados complexo (APIs externas -> Spark ETL -> DW -> APIs Spring Boot) em uma arquitetura full-stack coesa.
+* **Orientação a Resultados (Indicadores)**: Foco em traduzir requisitos de negócio (KPIs de projeto) em soluções técnicas de ETL e Dashboards, garantindo que o sistema entregue valor imediato à empresa parceira (Youtan).
+* **Organização e Qualidade de Processo**: Responsabilidade pela implementação da rastreabilidade de requisitos, assegurando a conformidade do produto final com as especificações iniciais e mantendo um ciclo de desenvolvimento (DevOps) transparente.
